@@ -21,7 +21,7 @@ A comprehensive corporate income statement model built to stress-test business v
 * **Risk & Sensitivity Mapping:** Engineered a **Two-Variable Data Table** matrix crossing unit sales vs. price boundaries to visualize net income volatility.
 * **Target-Setting Efficiency:** Utilized **Goal Seek** algorithms to rapidly map single-variable break-even thresholds.
 
-> 📁 *Check out the repository details and financial models [here](https://github.com).*
+> 📁 *Check out the repository details and financial models https://github.com/benadictrozario7983-glitch/corporate-3statement-financial-model/tree/main/excel%20projects.*
 
 ---
 

@@ -25,6 +25,8 @@ A comprehensive corporate income statement model built to stress-test business v
 
 ---
 
+![image alt](https://github.com/benadictrozario7983-glitch/corporate-3statement-financial-model/blob/main/Screenshot%202026-06-06%20163846.png)
+
 ## ⚡ What I Do
 
 * **Build Bulletproof Models:** Creating scalable, formula-driven spreadsheets that adapt to shifting corporate assumptions.
